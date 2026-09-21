@@ -14,4 +14,5 @@ Download this repo, change the filename from ``zip`` to ``pk3``, and add to your
 
 ## External Links
 
--[ImprovedHUD](https://www.moddb.com/games/doom/addons/improved-hud)
+-[Will Scarlet's HUD for Quake](https://github.com/whipowill/quake-mod-hud)
+-[Spychopat's ImprovedHUD for DOOM](https://www.moddb.com/games/doom/addons/improved-hud)
