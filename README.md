@@ -4,7 +4,7 @@
 
 An attempt at a classic HUD layout for DOOM.
 
-You would think after 30 years, someone would have made a decent HUD mod for GZDOOM but alas nobody ever did.  The only guy who got close was a guy named Spychopat who posted one on ModDB.
+You would think after 30 years, someone would have made a decent HUD mod but alas nobody ever did.  The only guy who got close was a guy named Spychopat who posted on ModDB.
 
 I took his mod and just moved the pieces around a little bit.  Made the health on the left and the ammo on the right symetrical.  This is as classic as it gets, and preserves DoomGuy's face.
 
