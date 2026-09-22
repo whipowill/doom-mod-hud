@@ -5,14 +5,14 @@ statusbar fullscreen, fullscreenoffsets // ZDoom HUD
 {
     //armor (above health, aligned to the same x as health, extra clearance so the icon doesn't overhang the health number)
     drawimage armoricon, 15, -25, centerbottom;
-    drawnumber 3, HUDFONT_DOOM, untranslated, armor, drawshadow, whennotzero, 82, -42;
+    drawnumber 3, HUDFONT_DOOM, untranslated, armor, drawshadow, whennotzero, 82, -41;
 
     //health
     drawselectedinventory alternateonempty, INDEXFONT, 6, -35
     {
         drawmugshot "STF", 5, 7, -35;
     }
-    drawnumber 3, HUDFONT_DOOM, untranslated, health, drawshadow, 82, -25;
+    drawnumber 3, HUDFONT_DOOM, untranslated, health, drawshadow, 82, -23;
 
     usesammo
     {
@@ -20,13 +20,13 @@ statusbar fullscreen, fullscreenoffsets // ZDoom HUD
         usessecondaryammo
         {
             drawimage ammoicon2, -20, -27, centerbottom;
-            drawnumber 3, HUDFONT_DOOM, untranslated, ammo2, drawshadow, -42, -42;
+            drawnumber 3, HUDFONT_DOOM, untranslated, ammo2, drawshadow, -42, -41;
         }
     }
 
     //ammo
-    drawimage ammoicon1, -21, -9, centerbottom;
-    drawnumber 3, HUDFONT_DOOM, untranslated, ammo1, drawshadow, -42, -25;
+    drawimage ammoicon1, -21, -7, centerbottom;
+    drawnumber 3, HUDFONT_DOOM, untranslated, ammo1, drawshadow, -42, -23;
 
     gamemode singleplayer, cooperative, teamgame
     {
