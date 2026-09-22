@@ -2,7 +2,7 @@
 
 ![HUD for DOOM](https://i.imgur.com/pCHhp7d.png)
 
-An attempt at a classic HUD layout for DOOM. Because you can't resize the element, it can be a lot of text on the screen. I tried to use layers to limit the real estate.
+An attempt at a classic HUD layout for DOOM.
 
 You would think after 30 years, someone would have made a decent HUD mod for GZDOOM but alas nobody ever did.  The only guy who got close was a guy named Spychopat who posted one on ModDB.
 
