@@ -4,8 +4,8 @@ monospacefonts true, "0";
 statusbar fullscreen, fullscreenoffsets // ZDoom HUD
 {
     //armor (above health, aligned to the same x as health, extra clearance so the icon doesn't overhang the health number)
-    drawimage armoricon, 15, -22, centerbottom;
-    drawnumber 3, HUDFONT_DOOM, untranslated, armor, drawshadow, whennotzero, 82, -35;
+    drawimage armoricon, 15, -25, centerbottom;
+    drawnumber 3, HUDFONT_DOOM, untranslated, armor, drawshadow, whennotzero, 82, -42;
 
     //health
     drawselectedinventory alternateonempty, INDEXFONT, 6, -35
@@ -19,8 +19,8 @@ statusbar fullscreen, fullscreenoffsets // ZDoom HUD
         //secondary ammo and inventory
         usessecondaryammo
         {
-            drawimage ammoicon2, -20, -22, centerbottom;
-            drawnumber 3, HUDFONT_DOOM, untranslated, ammo2, drawshadow, -42, -35;
+            drawimage ammoicon2, -20, -27, centerbottom;
+            drawnumber 3, HUDFONT_DOOM, untranslated, ammo2, drawshadow, -42, -42;
         }
     }
 
