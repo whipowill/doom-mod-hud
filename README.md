@@ -1,6 +1,6 @@
 # HUD for DOOM
 
-![HUD for DOOM](https://i.imgur.com/vG5Wjgv.png)
+![HUD for DOOM](https://i.imgur.com/cU7qPnE.png)
 
 A simple HUD layout for DOOM.
 
