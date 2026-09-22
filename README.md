@@ -1,6 +1,6 @@
 # HUD for DOOM
 
-![https://i.imgur.com/FrgPovJ.png](Screenshot of HUD mod in action)
+![HUD for DOOM](https://i.imgur.com/FrgPovJ.png)
 
 You would think after 30 years, someone would have made a decent HUD mod for GZDOOM but alas nobody ever did.  The only guy who got close was a guy named Spychopat who posted one on ModDB.
 
@@ -14,5 +14,5 @@ Download this repo, change the filename from ``zip`` to ``pk3``, and add to your
 
 ## External Links
 
--[Will Scarlet's HUD for Quake](https://github.com/whipowill/quake-mod-hud)
--[Spychopat's ImprovedHUD for DOOM](https://www.moddb.com/games/doom/addons/improved-hud)
+- [Will Scarlet's HUD for Quake](https://github.com/whipowill/quake-mod-hud)
+- [Spychopat's ImprovedHUD for DOOM](https://www.moddb.com/games/doom/addons/improved-hud)
